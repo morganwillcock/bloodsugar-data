@@ -77,3 +77,14 @@
 
 23rd
 01:31 BG:8.2
+10:13 BG:10.3 BI:10 CP:2 QA:4
+12:18 BG:11.4 CP:1
+14:04 BG:8.7 CP:7 QA:7
+16:21 BG:9.9 CP:1
+17:28 BG:7.4 CP:3 start brisk walk
+18:04 end brisk walk
+18:41 BG:11.1 CP:8 QA:8
+21:05 BG:8.4 CP:1
+
+24th
+01:02 BG:8.2
